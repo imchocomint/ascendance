@@ -1,3 +1,14 @@
+               _______  _______  _______  _______  __    _  ______   _______  __    _  _______  _______ 
+              |   _   ||       ||       ||       ||  |  | ||      | |   _   ||  |  | ||       ||       |
+              |  |_|  ||  _____||       ||    ___||   |_| ||  _    ||  |_|  ||   |_| ||       ||    ___|
+              |       || |_____ |       ||   |___ |       || | |   ||       ||       ||       ||   |___ 
+              |       ||_____  ||      _||    ___||  _    || |_|   ||       ||  _    ||      _||    ___|
+              |   _   | _____| ||     |_ |   |___ | | |   ||       ||   _   || | |   ||     |_ |   |___ 
+              |__| |__||_______||_______||_______||_|  |__||______| |__| |__||_|  |__||_______||_______|
+
+######                             ASCII art by me on a random website
+
+
 # Ascendance
 OS-independent*, mass-deployable neovim configs.
 
@@ -39,5 +50,10 @@ The config is pretty good for now, and is my daily driver.
 
 # List of plugins used:
 TBA
+
+
+# Gallery
+![image](https://preview.redd.it/an-afternoon-and-an-ai-later-v0-djw4x1wldb5f1.png?width=640&crop=smart&auto=webp&s=0227dba448581afde0c9985425106bc3caba6739)
+![Alt text](https://preview.redd.it/an-afternoon-and-an-ai-later-v0-kefdh3wldb5f1.png?width=1080&crop=smart&auto=webp&s=82f84b110ce15566d3a8e410ba3f6920d824b596)
 
 <span style="font-size:0.7em;"> *A slight change is needed to provide best result on Windows. If you don't want to, move /nvim/ to $HOME/.config/ and then hyperlink or whatever to make neovim recognize the init.lua file. </span>
