@@ -5,7 +5,7 @@ Comes with some plugins. You can remove at any time.
 
 Uses lazy.nvim package manager. OOTB supports for Markdown and Python.
 
-<span style="font-size:4em;"> *A slight change is needed to provide best result on Windows. If you don't want to, move /nvim/ to $HOME/.config/ and then hyperlink or whatever to make neovim recognize the init.lua file. </span>
+<span style="font-size:0.7em;"> *A slight change is needed to provide best result on Windows. If you don't want to, move /nvim/ to $HOME/.config/ and then hyperlink or whatever to make neovim recognize the init.lua file. </span>
 
 # Installation
 ## Windows
