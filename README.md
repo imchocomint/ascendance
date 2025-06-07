@@ -5,11 +5,10 @@ Comes with some plugins. You can remove at any time.
 
 Uses lazy.nvim package manager. OOTB supports for Markdown and Python.
 
-<span style="font-size:0.7em;"> *A slight change is needed to provide best result on Windows. If you don't want to, move /nvim/ to $HOME/.config/ and then hyperlink or whatever to make neovim recognize the init.lua file. </span>
 
 # Installation
 ## Windows
-Copy all files in /Windows/ to %AppData%/Local
+Copy all files in /Windows/ to %AppData%/Local/
 ## Linux
 Copy all file in /Linux/ to $HOME
 ## macOS
@@ -18,4 +17,27 @@ IDK. May work but someone with a MacBook/iMac/Mac mini/Mac studio/Mac pro/Hackin
 Testing. Use the /Linux/ folder.
 
 # Functions
+- Have a menu screen & a bottom bar
 
+- Tailorable
+
+- Feature-rich, and extensible (via plugins)
+
+- Works cross-platform*
+
+- Use Lua for init (no need to convert code again)
+
+- ...you name it. Pull request is always welcome
+
+# Roadmap
+The config is pretty good for now, and is my daily driver.
+
+- [ ] Further refactoring the code, especially the plugins
+- [ ] Adding some features. I don't know what to add, but you can do pull request for that
+- [ ] Install script
+- [ ] Better aethestic e.g. coloring
+
+# List of plugins used:
+TBA
+
+<span style="font-size:0.7em;"> *A slight change is needed to provide best result on Windows. If you don't want to, move /nvim/ to $HOME/.config/ and then hyperlink or whatever to make neovim recognize the init.lua file. </span>
