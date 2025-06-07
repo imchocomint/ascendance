@@ -1,8 +1,0 @@
-ERR 2025-02-12T20:05:18.549 bin/c      chan_close_with_error:561: RPC: ch 1 (type=1) returned a response with an unknown request id 1. Ensure the client is properly synchronized
-ERR 2025-02-12T20:05:43.246 bin/c      chan_close_with_error:561: RPC: ch 1 (type=1) returned a response with an unknown request id 1. Ensure the client is properly synchronized
-ERR 2025-02-16T17:38:36.188 bin/c      chan_close_with_error:561: RPC: ch 1 (type=1) returned a response with an unknown request id 1. Ensure the client is properly synchronized
-ERR 2025-05-18T15:05:36.691 bin/c      chan_close_with_error:561: RPC: ch 1 (type=1) returned a response with an unknown request id 1. Ensure the client is properly synchronized
-ERR 2025-06-06T21:33:20.926 ui/c/bin   tui_stop:618: TUI already stopped (race?)
-ERR 2025-06-07T11:28:44.601 ui/c/bin   tui_stop:618: TUI already stopped (race?)
-ERR 2025-06-07T11:28:45.563 ui/c/bin   tui_stop:618: TUI already stopped (race?)
-ERR 2025-06-07T11:33:03.685 ui/c/bin   tui_stop:618: TUI already stopped (race?)

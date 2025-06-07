@@ -1,5 +1,0 @@
-[START][2025-02-16 17:47:19] LSP logging initiated
-[ERROR][2025-02-16 17:47:19] ...lsp/handlers.lua:623	'File or directory "\\<default workspace root>" does not exist.'
-[START][2025-06-05 16:32:04] LSP logging initiated
-[ERROR][2025-06-05 16:32:04] .../vim/lsp/rpc.lua:770	"rpc"	"pwsh"	"stderr"	"\27[31;1m&: \27[31;1mThe term 'C:\\Users\\mintg\\AppData\\Roaming\\nvim-data\\mason\\packages\\powershell-editor-services/PowerShellEditorServices/Start-EditorServices.ps1' is not recognized as a name of a cmdlet, function, script file, or executable program.\27[0m\r\n\27[31;1m\27[31;1mCheck the spelling of the name, or if a path was included, verify that the path is correct and try again.\27[0m\r\n"
-[WARN][2025-06-05 16:32:17] ...lsp/handlers.lua:625	"OmniSharp.Extensions.LanguageServer.Server.Configuration.DidChangeConfigurationProvider: No ConfigurationItems have been defined, configuration won't surface any configuration from the client! | "
