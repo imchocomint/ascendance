@@ -19,13 +19,13 @@ Uses lazy.nvim package manager. OOTB supports for Markdown and Python.
 
 # Installation
 ## Windows
-Copy all files in /Windows/ to %AppData%/Local/
+Copy all files in /Windows/ to $HOME/AppData/Local/
 ## Linux
 Copy all file in /Linux/ to $HOME
 ## macOS
 IDK. May work but someone with a MacBook/iMac/Mac mini/Mac studio/Mac pro/Hackintosh please test it for me
 ## Android (via Termux)
-Testing. Use the /Linux/ folder.
+Install Clang (pkg/apt install clang) or any C/C++ compiler. Clone the repository. Copy all file in /Linux/ to $HOME.
 
 # Functions
 - Have a menu screen & a bottom bar
@@ -47,7 +47,7 @@ The config is pretty good for now, and is my daily driver.
 - [ ] Adding some features. I don't know what to add, but you can do pull request for that
 - [ ] Install script
 - [ ] Better aethestic e.g. coloring
-
+- [ ] Merging the folders together
 # List of plugins used:
 TBA
 
