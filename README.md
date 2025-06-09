@@ -37,7 +37,7 @@ The config is pretty good for now, and is my daily driver.
 - [ ] Adding some features. I don't know what to add, but you can do pull request for that
 - [ ] Install script
 - [ ] Better aethestic e.g. coloring
-- [ ] Merging the folders together
+- [x] Merging the folders together
 # List of plugins used:
 TBA
 
