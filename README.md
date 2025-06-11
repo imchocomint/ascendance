@@ -39,8 +39,17 @@ The config is pretty good for now, and is my daily driver.
 - [ ] Better aethestic e.g. coloring
 - [x] Merging the folders together
 # List of plugins used:
-TBA
-
+- [compiler.nvim](https://github.com/Zeioth/compiler.nvim)
+- [telescope](https://github.com/nvim-telescope/telescope.nvim)
+- [nvim-autopairs](https://github.com/windwp/nvim-autopairs)
+- [markview.nvim](https://github.com/OXY2DEV/markview.nvim). The developer's life story is heart-touching and if you like the plugin, donate to him.
+- neovim LSP
+- [nvim-treesitter stable](https://github.com/nvim-treesitter/nvim-treesitter)
+- [nvim-tree](https://github.com/nvim-tree/nvim-tree.lua)
+- [lualine](https://github.com/nvim-lualine/lualine.nvim)
+- [alpha-nvim](https://github.com/goolord/alpha-nvim)
+- [scrollbar.nvim](https://github.com/xuyuanp/scrollbar.nvim)
+- [catppuccin](https://github.com/catppuccin/nvim)
 
 # Gallery
 ![image](https://preview.redd.it/an-afternoon-and-an-ai-later-v0-djw4x1wldb5f1.png?width=640&crop=smart&auto=webp&s=0227dba448581afde0c9985425106bc3caba6739)
