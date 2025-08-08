@@ -26,6 +26,8 @@ Install Clang (pkg/apt install clang). Copy /nvim/ to $HOME/.config/.
 
 - Use Lua for init (no need to convert code again)
 
+- Had some patches from kickstart.nvim
+
 - ...you name it. Pull request is always welcome
 
 # Roadmap
