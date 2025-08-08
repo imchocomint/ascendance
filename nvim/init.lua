@@ -16,9 +16,31 @@ require("lazy").setup("plugins", {
   
 })
 
-
+vim.o.relativenumber = true
+vim.o.mouse = 'a'
+vim.schedule(function()
+  vim.o.clipboard = 'unnamedplus'
+end)
+vim.o.breakindent = true
+vim.o.undofile = true
+vim.o.ignorecase = true
+vim.o.smartcase = true
 vim.opt.number = true
 vim.opt.relativenumber = true
+vim.o.cursorline = true
+vim.o.confirm = true
+
+-- Highlight while copyint text
+vim.api.nvim_create_autocmd('TextYankPost', {
+  desc = 'Highlight when yanking (copying) text',
+  group = vim.api.nvim_create_augroup('kickstart-highlight-yank', { clear = true }),
+  callback = function()
+    vim.hl.on_yank()
+  end,
+})
+
+
+
 
 -- Open compiler
 vim.api.nvim_set_keymap('n', '<F6>', "<cmd>CompilerOpen<cr>", { noremap = true, silent = true })
