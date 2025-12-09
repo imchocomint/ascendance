@@ -9,7 +9,7 @@ return {
 
   {
     'nvim-tree/nvim-tree.lua',
-    dependencies = { 'nvim-tree/nvim-web-devicons' } -- dependency cho icons
+    dependencies = { 'nvim-tree/nvim-web-devicons' }
   },
 
 

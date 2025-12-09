@@ -11,6 +11,16 @@ if not vim.loop.fs_stat(lazypath) then
 end
 vim.opt.rtp:prepend(lazypath)
 
+-- TEMPORARY FIX: Add this block to init.lua
+
+-- Define your on_attach function
+local on_attach = function(client, bufnr)
+  if client.supports_method('textDocument/formatting') then
+    vim.cmd('autocmd BufWritePre <buffer> lua vim.lsp.buf.format()')
+  end
+end
+
+
 
 require("lazy").setup("plugins", {
   

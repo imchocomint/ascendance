@@ -7,4 +7,11 @@ return {
         -- this is equivalent to setup({}) function
     },
     
+    {
+        'vyfor/cord.nvim',
+        build = ':Cord update',
+        -- opts = {}
+    },
+
+    
 }
